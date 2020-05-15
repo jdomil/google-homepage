@@ -1,0 +1,8 @@
+svg.small {
+    height: 16px;
+    width: auto;
+}
+
+.flex {
+    display: flex;
+}
